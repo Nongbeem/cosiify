@@ -1,0 +1,134 @@
+[{
+  "_id": {
+    "$oid": "6ac0adcb4cfd37d60b41dfc5"
+  },
+  "name": "beem",
+  "email": "Beem@gmail.com",
+  "password": "1234",
+  "role": "admin",
+  "profileImage": "",
+  "tokensBalance": 49600,
+  "pushToken": "",
+  "createdAt": {
+    "$date": "2026-10-03T07:24:59.250Z"
+  },
+  "__v": 18,
+  "rewardedContent": [
+    "webtoon_6ac0fb8580172245cf7cafb8",
+    "webtoon_6ac0fb9780172245cf7cafb9",
+    "webtoon_6ac0fbaa80172245cf7cafba",
+    "webtoon_6ac1dd6ed94dd8ec3138451a",
+    "webtoon_6ac1dd99d94dd8ec3138451b",
+    "webtoon_6ac0fbcc80172245cf7cafbb",
+    "ebook_6ac0b27376ff2c81e709506e",
+    "ebook_6ac1de24d94dd8ec3138451d",
+    "webtoon_6ac356029c2f35bd4d6943f9"
+  ],
+  "unlockedAudiobooks": [],
+  "unlockedEbooks": [],
+  "unlockedEpisodes": [
+    {
+      "$oid": "6ac1dd6ed94dd8ec3138451a"
+    },
+    {
+      "$oid": "6ac1dd99d94dd8ec3138451b"
+    },
+    {
+      "$oid": "6ac0fbcc80172245cf7cafbb"
+    }
+  ],
+  "followingArtists": [],
+  "followingAuthors": [
+    "Tazawa",
+    "นักวาดอิสระ"
+  ],
+  "purchasedEbooks": []
+},
+{
+  "_id": {
+    "$oid": "6ac0addf4cfd37d60b41dfc6"
+  },
+  "name": "Tawan",
+  "email": "Tawan@gmail.com",
+  "password": "1234",
+  "role": "admin",
+  "profileImage": "",
+  "tokensBalance": 1000,
+  "pushToken": "",
+  "createdAt": {
+    "$date": "2026-10-03T07:25:19.613Z"
+  },
+  "__v": 7,
+  "rewardedContent": [
+    "webtoon_6ac0fbaa80172245cf7cafba",
+    "webtoon_6ac0fbcc80172245cf7cafbb",
+    "webtoon_6ac1dd6ed94dd8ec3138451a",
+    "ebook_6ac0b27376ff2c81e709506e",
+    "webtoon_6ac0fb8580172245cf7cafb8"
+  ],
+  "unlockedAudiobooks": [],
+  "unlockedEbooks": [],
+  "unlockedEpisodes": [
+    {
+      "$oid": "6ac0fbcc80172245cf7cafbb"
+    },
+    {
+      "$oid": "6ac1dd6ed94dd8ec3138451a"
+    }
+  ],
+  "followingArtists": [
+    "Babymonster"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac0c7b3c6db83a6bc9fcb5d"
+  },
+  "name": "Hi",
+  "email": "Hi@gmail.com",
+  "password": "1234",
+  "role": "user",
+  "profileImage": "",
+  "tokensBalance": 800,
+  "pushToken": "",
+  "createdAt": {
+    "$date": "2026-10-03T09:15:31.301Z"
+  },
+  "__v": 7,
+  "followingArtists": [],
+  "followingAuthors": [],
+  "rewardedContent": [
+    "ebook_6ac0b27376ff2c81e709506e",
+    "webtoon_6ac0fb9780172245cf7cafb9",
+    "webtoon_6ac0fb8580172245cf7cafb8",
+    "ebook_6ac1de24d94dd8ec3138451d",
+    "webtoon_6ac1dd6ed94dd8ec3138451a"
+  ],
+  "unlockedAudiobooks": [],
+  "unlockedEbooks": [
+    {
+      "$oid": "6ac1de24d94dd8ec3138451d"
+    }
+  ],
+  "unlockedEpisodes": [
+    {
+      "$oid": "6ac1dd6ed94dd8ec3138451a"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6ac0ce28c6db83a6bc9fcb5e"
+  },
+  "name": "Ji",
+  "email": "Ji@gmail.com",
+  "password": "123",
+  "role": "user",
+  "profileImage": "",
+  "tokensBalance": 0,
+  "pushToken": "",
+  "createdAt": {
+    "$date": "2026-10-03T09:43:04.861Z"
+  },
+  "__v": 0
+}]

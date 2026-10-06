@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6ac10f9b1aaf6bb9374d28e5"
+  },
+  "userId": {
+    "$oid": "6ac0adcb4cfd37d60b41dfc5"
+  },
+  "name": "Love",
+  "type": "webtoon",
+  "description": "",
+  "coverImage": "",
+  "tracks": [
+    {
+      "$oid": "6ac355ae9c2f35bd4d6943f4"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-10-03T14:22:19.709Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "6ac11088b688e2b52af8f9a3"
+  },
+  "userId": {
+    "$oid": "6ac0adcb4cfd37d60b41dfc5"
+  },
+  "name": "1",
+  "type": "music",
+  "description": "",
+  "coverImage": "",
+  "tracks": [
+    {
+      "$oid": "6ac0aebe4cfd37d60b41dfca"
+    },
+    {
+      "$oid": "6ac0afa54cfd37d60b41dfce"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-10-03T14:26:16.698Z"
+  },
+  "__v": 10
+}]

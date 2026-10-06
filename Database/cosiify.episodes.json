@@ -1,0 +1,189 @@
+[{
+  "_id": {
+    "$oid": "6ac0fb8580172245cf7cafb8"
+  },
+  "webtoonId": {
+    "$oid": "6ac0b30376ff2c81e709506f"
+  },
+  "episodeNumber": 1,
+  "title": "ของหวานนั้นดีเสมอ 1",
+  "coverImage": "/uploads/1791032197354-652533255.jpg",
+  "imageUrls": [
+    "/uploads/1791032197357-982934251.jpg"
+  ],
+  "bgMusicTrackId": null,
+  "tokensReward": 0,
+  "price": 0,
+  "createdAt": {
+    "$date": "2026-10-03T12:56:37.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac0fb9780172245cf7cafb9"
+  },
+  "webtoonId": {
+    "$oid": "6ac0b30376ff2c81e709506f"
+  },
+  "episodeNumber": 2,
+  "title": "ของหวานนั้นดีเสมอ 2",
+  "coverImage": "/uploads/1791032215058-361795902.jpg",
+  "imageUrls": [
+    "/uploads/1791032215059-680924658.jpg"
+  ],
+  "bgMusicTrackId": null,
+  "tokensReward": 0,
+  "price": 0,
+  "createdAt": {
+    "$date": "2026-10-03T12:56:55.069Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac0fbaa80172245cf7cafba"
+  },
+  "webtoonId": {
+    "$oid": "6ac0b33476ff2c81e7095070"
+  },
+  "episodeNumber": 1,
+  "title": "บทที่ 1",
+  "coverImage": "/uploads/1791032234905-574702428.jpg",
+  "imageUrls": [
+    "/uploads/1791032234908-278775630.jpg"
+  ],
+  "bgMusicTrackId": null,
+  "tokensReward": 0,
+  "price": 0,
+  "createdAt": {
+    "$date": "2026-10-03T12:57:14.914Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac0fbcc80172245cf7cafbb"
+  },
+  "webtoonId": {
+    "$oid": "6ac0b33476ff2c81e7095070"
+  },
+  "episodeNumber": 2,
+  "title": "บทที่ 2",
+  "coverImage": "/uploads/1791032268775-811362041.jpg",
+  "imageUrls": [
+    "/uploads/1791032268775-788207919.jpg"
+  ],
+  "bgMusicTrackId": null,
+  "tokensReward": 0,
+  "price": 400,
+  "createdAt": {
+    "$date": "2026-10-03T12:57:48.777Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac1dd6ed94dd8ec3138451a"
+  },
+  "webtoonId": {
+    "$oid": "6ac0b30376ff2c81e709506f"
+  },
+  "episodeNumber": 3,
+  "title": "สาวผมทอง",
+  "coverImage": "/uploads/1791090030357-175297985.png",
+  "imageUrls": [
+    "/uploads/1791090030363-262003105.png"
+  ],
+  "bgMusicTrackId": null,
+  "tokensReward": 0,
+  "price": 400,
+  "createdAt": {
+    "$date": "2026-10-04T05:00:30.382Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac1dd99d94dd8ec3138451b"
+  },
+  "webtoonId": {
+    "$oid": "6ac0b30376ff2c81e709506f"
+  },
+  "episodeNumber": 4,
+  "title": "มังกรเพลิง",
+  "coverImage": "/uploads/1791090073904-964671445.png",
+  "imageUrls": [
+    "/uploads/1791090073910-996148979.png"
+  ],
+  "bgMusicTrackId": null,
+  "tokensReward": 0,
+  "price": 400,
+  "createdAt": {
+    "$date": "2026-10-04T05:01:13.928Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac34e5d794743fa94434459"
+  },
+  "webtoonId": {
+    "$oid": "6ac0b33476ff2c81e7095070"
+  },
+  "episodeNumber": 3,
+  "title": "บทที่ 3",
+  "coverImage": "/uploads/1791184477013-80522681.png",
+  "imageUrls": [
+    "/uploads/1791184477028-298883093.png"
+  ],
+  "bgMusicTrackId": null,
+  "tokensReward": 0,
+  "price": 400,
+  "createdAt": {
+    "$date": "2026-10-05T07:14:37.100Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac356029c2f35bd4d6943f9"
+  },
+  "webtoonId": {
+    "$oid": "6ac355ae9c2f35bd4d6943f4"
+  },
+  "episodeNumber": 1,
+  "title": "บทที่ 1",
+  "coverImage": "/uploads/1791186434589-677904799.jpg",
+  "imageUrls": [
+    "/uploads/1791186434591-753515253.png"
+  ],
+  "bgMusicTrackId": null,
+  "tokensReward": 0,
+  "price": 0,
+  "createdAt": {
+    "$date": "2026-10-05T07:47:14.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac356249c2f35bd4d6943fe"
+  },
+  "webtoonId": {
+    "$oid": "6ac355ae9c2f35bd4d6943f4"
+  },
+  "episodeNumber": 2,
+  "title": "บทที่ 2",
+  "coverImage": "/uploads/1791186468353-955464554.jpg",
+  "imageUrls": [
+    "/uploads/1791186468357-51613358.png"
+  ],
+  "bgMusicTrackId": null,
+  "tokensReward": 0,
+  "price": 400,
+  "createdAt": {
+    "$date": "2026-10-05T07:47:48.383Z"
+  },
+  "__v": 0
+}]

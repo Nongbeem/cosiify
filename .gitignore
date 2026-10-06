@@ -1,0 +1,54 @@
+# Android build artifacts and caches
+.gradle/
+**/.gradle/
+build/
+**/build/
+*/build/
+.idea/
+**/.idea/
+local.properties
+**/local.properties
+*.iml
+**/*.iml
+.cxx/
+**/.cxx/
+*.hprof
+*.keystore
+!debug.keystore
+.kotlin/
+**/.kotlin/
+captures/
+**/captures/
+.externalNativeBuild/
+**/.externalNativeBuild/
+
+# Compiled binaries and native artifacts
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+*.aar
+*.so
+*.o
+*.obj
+
+# Dependencies & package manager caches
+node_modules/
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# React Native & Metro caches
+.metro-health-check*
+*.jsbundle
+.bundle/
+**/vendor/bundle/
+/coverage
+
+# OS generated files
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,576 @@
+[{
+  "_id": {
+    "$oid": "6ac355ae9c2f35bd4d6943f6"
+  },
+  "userId": {
+    "$oid": "6ac0addf4cfd37d60b41dfc6"
+  },
+  "title": "มีเว็บตูนเรื่องใหม่จาก ทากูมิ ฟูกูอิ",
+  "message": "ผลงานเรื่อง \"มหาศึกคนชนเทพ\" เปิดตัวใหม่แล้ว เข้าไปอ่านได้เลย!",
+  "type": "new_webtoon",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2026-10-05T07:45:50.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac355ae9c2f35bd4d6943f7"
+  },
+  "userId": {
+    "$oid": "6ac0c7b3c6db83a6bc9fcb5d"
+  },
+  "title": "มีเว็บตูนเรื่องใหม่จาก ทากูมิ ฟูกูอิ",
+  "message": "ผลงานเรื่อง \"มหาศึกคนชนเทพ\" เปิดตัวใหม่แล้ว เข้าไปอ่านได้เลย!",
+  "type": "new_webtoon",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T07:45:50.811Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac355ae9c2f35bd4d6943f8"
+  },
+  "userId": {
+    "$oid": "6ac0ce28c6db83a6bc9fcb5e"
+  },
+  "title": "มีเว็บตูนเรื่องใหม่จาก ทากูมิ ฟูกูอิ",
+  "message": "ผลงานเรื่อง \"มหาศึกคนชนเทพ\" เปิดตัวใหม่แล้ว เข้าไปอ่านได้เลย!",
+  "type": "new_webtoon",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T07:45:50.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac356029c2f35bd4d6943fb"
+  },
+  "userId": {
+    "$oid": "6ac0addf4cfd37d60b41dfc6"
+  },
+  "title": "ตอนใหม่มาแล้ว! มหาศึกคนชนเทพ",
+  "message": "ตอนที่ 1: \"บทที่ 1\" อัปเดตแล้ว เข้าไปติดตามอ่านได้เลย!",
+  "type": "new_episode",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2026-10-05T07:47:14.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac356029c2f35bd4d6943fc"
+  },
+  "userId": {
+    "$oid": "6ac0c7b3c6db83a6bc9fcb5d"
+  },
+  "title": "ตอนใหม่มาแล้ว! มหาศึกคนชนเทพ",
+  "message": "ตอนที่ 1: \"บทที่ 1\" อัปเดตแล้ว เข้าไปติดตามอ่านได้เลย!",
+  "type": "new_episode",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T07:47:14.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac356029c2f35bd4d6943fd"
+  },
+  "userId": {
+    "$oid": "6ac0ce28c6db83a6bc9fcb5e"
+  },
+  "title": "ตอนใหม่มาแล้ว! มหาศึกคนชนเทพ",
+  "message": "ตอนที่ 1: \"บทที่ 1\" อัปเดตแล้ว เข้าไปติดตามอ่านได้เลย!",
+  "type": "new_episode",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T07:47:14.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac356249c2f35bd4d694400"
+  },
+  "userId": {
+    "$oid": "6ac0addf4cfd37d60b41dfc6"
+  },
+  "title": "ตอนใหม่มาแล้ว! มหาศึกคนชนเทพ",
+  "message": "ตอนที่ 2: \"บทที่ 2\" อัปเดตแล้ว เข้าไปติดตามอ่านได้เลย!",
+  "type": "new_episode",
+  "isRead": true,
+  "createdAt": {
+    "$date": "2026-10-05T07:47:48.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac356249c2f35bd4d694401"
+  },
+  "userId": {
+    "$oid": "6ac0c7b3c6db83a6bc9fcb5d"
+  },
+  "title": "ตอนใหม่มาแล้ว! มหาศึกคนชนเทพ",
+  "message": "ตอนที่ 2: \"บทที่ 2\" อัปเดตแล้ว เข้าไปติดตามอ่านได้เลย!",
+  "type": "new_episode",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T07:47:48.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac356249c2f35bd4d694402"
+  },
+  "userId": {
+    "$oid": "6ac0ce28c6db83a6bc9fcb5e"
+  },
+  "title": "ตอนใหม่มาแล้ว! มหาศึกคนชนเทพ",
+  "message": "ตอนที่ 2: \"บทที่ 2\" อัปเดตแล้ว เข้าไปติดตามอ่านได้เลย!",
+  "type": "new_episode",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T07:47:48.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac36d28c81350bac5fef011"
+  },
+  "userId": {
+    "$oid": "6ac0adcb4cfd37d60b41dfc5"
+  },
+  "title": "มีเพลงใหม่จาก Blackpink",
+  "message": "เพลง \"Kill This Love\" ปล่อยออกมาแล้ว ให้รับฟังได้เลย!",
+  "type": "new_track",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T09:26:00.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac36d28c81350bac5fef012"
+  },
+  "userId": {
+    "$oid": "6ac0addf4cfd37d60b41dfc6"
+  },
+  "title": "มีเพลงใหม่จาก Blackpink",
+  "message": "เพลง \"Kill This Love\" ปล่อยออกมาแล้ว ให้รับฟังได้เลย!",
+  "type": "new_track",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T09:26:00.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac36d28c81350bac5fef013"
+  },
+  "userId": {
+    "$oid": "6ac0c7b3c6db83a6bc9fcb5d"
+  },
+  "title": "มีเพลงใหม่จาก Blackpink",
+  "message": "เพลง \"Kill This Love\" ปล่อยออกมาแล้ว ให้รับฟังได้เลย!",
+  "type": "new_track",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T09:26:00.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac36d28c81350bac5fef014"
+  },
+  "userId": {
+    "$oid": "6ac0ce28c6db83a6bc9fcb5e"
+  },
+  "title": "มีเพลงใหม่จาก Blackpink",
+  "message": "เพลง \"Kill This Love\" ปล่อยออกมาแล้ว ให้รับฟังได้เลย!",
+  "type": "new_track",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T09:26:00.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac390e75bce2b9dace4ff12"
+  },
+  "userId": {
+    "$oid": "6ac0adcb4cfd37d60b41dfc5"
+  },
+  "title": "มีเพลงใหม่จาก LABANOON",
+  "message": "เพลง \"พลังงานจน\" ปล่อยออกมาแล้ว ให้รับฟังได้เลย!",
+  "type": "new_track",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T11:58:31.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac390e75bce2b9dace4ff13"
+  },
+  "userId": {
+    "$oid": "6ac0addf4cfd37d60b41dfc6"
+  },
+  "title": "มีเพลงใหม่จาก LABANOON",
+  "message": "เพลง \"พลังงานจน\" ปล่อยออกมาแล้ว ให้รับฟังได้เลย!",
+  "type": "new_track",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T11:58:31.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac390e75bce2b9dace4ff14"
+  },
+  "userId": {
+    "$oid": "6ac0c7b3c6db83a6bc9fcb5d"
+  },
+  "title": "มีเพลงใหม่จาก LABANOON",
+  "message": "เพลง \"พลังงานจน\" ปล่อยออกมาแล้ว ให้รับฟังได้เลย!",
+  "type": "new_track",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T11:58:31.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac390e75bce2b9dace4ff15"
+  },
+  "userId": {
+    "$oid": "6ac0ce28c6db83a6bc9fcb5e"
+  },
+  "title": "มีเพลงใหม่จาก LABANOON",
+  "message": "เพลง \"พลังงานจน\" ปล่อยออกมาแล้ว ให้รับฟังได้เลย!",
+  "type": "new_track",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T11:58:31.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391355bce2b9dace4ff18"
+  },
+  "userId": {
+    "$oid": "6ac0addf4cfd37d60b41dfc6"
+  },
+  "title": "มี หนังสือเสียง ใหม่จาก 666",
+  "message": "เรื่อง \"666\" พร้อมให้รับฟังแล้ว!",
+  "type": "new_audiobook",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T11:59:49.314Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391355bce2b9dace4ff19"
+  },
+  "userId": {
+    "$oid": "6ac0c7b3c6db83a6bc9fcb5d"
+  },
+  "title": "มี หนังสือเสียง ใหม่จาก 666",
+  "message": "เรื่อง \"666\" พร้อมให้รับฟังแล้ว!",
+  "type": "new_audiobook",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T11:59:49.314Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391355bce2b9dace4ff1a"
+  },
+  "userId": {
+    "$oid": "6ac0ce28c6db83a6bc9fcb5e"
+  },
+  "title": "มี หนังสือเสียง ใหม่จาก 666",
+  "message": "เรื่อง \"666\" พร้อมให้รับฟังแล้ว!",
+  "type": "new_audiobook",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T11:59:49.314Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391525bce2b9dace4ff1c"
+  },
+  "userId": {
+    "$oid": "6ac0adcb4cfd37d60b41dfc5"
+  },
+  "title": "มี E-book ใหม่จาก asdsad",
+  "message": "เรื่อง \"asdaewf\" วางจำหน่ายแล้ว เข้าไปอ่านกันเลย!",
+  "type": "new_ebook",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:00:18.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391525bce2b9dace4ff1d"
+  },
+  "userId": {
+    "$oid": "6ac0addf4cfd37d60b41dfc6"
+  },
+  "title": "มี E-book ใหม่จาก asdsad",
+  "message": "เรื่อง \"asdaewf\" วางจำหน่ายแล้ว เข้าไปอ่านกันเลย!",
+  "type": "new_ebook",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:00:18.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391525bce2b9dace4ff1e"
+  },
+  "userId": {
+    "$oid": "6ac0c7b3c6db83a6bc9fcb5d"
+  },
+  "title": "มี E-book ใหม่จาก asdsad",
+  "message": "เรื่อง \"asdaewf\" วางจำหน่ายแล้ว เข้าไปอ่านกันเลย!",
+  "type": "new_ebook",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:00:18.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391525bce2b9dace4ff1f"
+  },
+  "userId": {
+    "$oid": "6ac0ce28c6db83a6bc9fcb5e"
+  },
+  "title": "มี E-book ใหม่จาก asdsad",
+  "message": "เรื่อง \"asdaewf\" วางจำหน่ายแล้ว เข้าไปอ่านกันเลย!",
+  "type": "new_ebook",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:00:18.262Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391645bce2b9dace4ff21"
+  },
+  "userId": {
+    "$oid": "6ac0adcb4cfd37d60b41dfc5"
+  },
+  "title": "มีเว็บตูนเรื่องใหม่จาก asdasdsa",
+  "message": "ผลงานเรื่อง \"asdasd\" เปิดตัวใหม่แล้ว เข้าไปอ่านได้เลย!",
+  "type": "new_webtoon",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:00:36.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391645bce2b9dace4ff22"
+  },
+  "userId": {
+    "$oid": "6ac0addf4cfd37d60b41dfc6"
+  },
+  "title": "มีเว็บตูนเรื่องใหม่จาก asdasdsa",
+  "message": "ผลงานเรื่อง \"asdasd\" เปิดตัวใหม่แล้ว เข้าไปอ่านได้เลย!",
+  "type": "new_webtoon",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:00:36.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391645bce2b9dace4ff23"
+  },
+  "userId": {
+    "$oid": "6ac0c7b3c6db83a6bc9fcb5d"
+  },
+  "title": "มีเว็บตูนเรื่องใหม่จาก asdasdsa",
+  "message": "ผลงานเรื่อง \"asdasd\" เปิดตัวใหม่แล้ว เข้าไปอ่านได้เลย!",
+  "type": "new_webtoon",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:00:36.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391645bce2b9dace4ff24"
+  },
+  "userId": {
+    "$oid": "6ac0ce28c6db83a6bc9fcb5e"
+  },
+  "title": "มีเว็บตูนเรื่องใหม่จาก asdasdsa",
+  "message": "ผลงานเรื่อง \"asdasd\" เปิดตัวใหม่แล้ว เข้าไปอ่านได้เลย!",
+  "type": "new_webtoon",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:00:36.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391845bce2b9dace4ff26"
+  },
+  "userId": {
+    "$oid": "6ac0adcb4cfd37d60b41dfc5"
+  },
+  "title": "ตอนใหม่มาแล้ว! asdasd",
+  "message": "ตอนที่ 1: \"asdfasfaf\" อัปเดตแล้ว เข้าไปติดตามอ่านได้เลย!",
+  "type": "new_episode",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:01:08.037Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391845bce2b9dace4ff27"
+  },
+  "userId": {
+    "$oid": "6ac0addf4cfd37d60b41dfc6"
+  },
+  "title": "ตอนใหม่มาแล้ว! asdasd",
+  "message": "ตอนที่ 1: \"asdfasfaf\" อัปเดตแล้ว เข้าไปติดตามอ่านได้เลย!",
+  "type": "new_episode",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:01:08.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391845bce2b9dace4ff28"
+  },
+  "userId": {
+    "$oid": "6ac0c7b3c6db83a6bc9fcb5d"
+  },
+  "title": "ตอนใหม่มาแล้ว! asdasd",
+  "message": "ตอนที่ 1: \"asdfasfaf\" อัปเดตแล้ว เข้าไปติดตามอ่านได้เลย!",
+  "type": "new_episode",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:01:08.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac391845bce2b9dace4ff29"
+  },
+  "userId": {
+    "$oid": "6ac0ce28c6db83a6bc9fcb5e"
+  },
+  "title": "ตอนใหม่มาแล้ว! asdasd",
+  "message": "ตอนที่ 1: \"asdfasfaf\" อัปเดตแล้ว เข้าไปติดตามอ่านได้เลย!",
+  "type": "new_episode",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:01:08.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac392345bce2b9dace4ff2b"
+  },
+  "userId": {
+    "$oid": "6ac0adcb4cfd37d60b41dfc5"
+  },
+  "title": "มี หนังสือเสียง ใหม่จาก asdasdsad",
+  "message": "เรื่อง \"asdawsd\" พร้อมให้รับฟังแล้ว!",
+  "type": "new_audiobook",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:04:04.922Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac392345bce2b9dace4ff2c"
+  },
+  "userId": {
+    "$oid": "6ac0addf4cfd37d60b41dfc6"
+  },
+  "title": "มี หนังสือเสียง ใหม่จาก asdasdsad",
+  "message": "เรื่อง \"asdawsd\" พร้อมให้รับฟังแล้ว!",
+  "type": "new_audiobook",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:04:04.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac392345bce2b9dace4ff2d"
+  },
+  "userId": {
+    "$oid": "6ac0c7b3c6db83a6bc9fcb5d"
+  },
+  "title": "มี หนังสือเสียง ใหม่จาก asdasdsad",
+  "message": "เรื่อง \"asdawsd\" พร้อมให้รับฟังแล้ว!",
+  "type": "new_audiobook",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:04:04.923Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac392345bce2b9dace4ff2e"
+  },
+  "userId": {
+    "$oid": "6ac0ce28c6db83a6bc9fcb5e"
+  },
+  "title": "มี หนังสือเสียง ใหม่จาก asdasdsad",
+  "message": "เรื่อง \"asdawsd\" พร้อมให้รับฟังแล้ว!",
+  "type": "new_audiobook",
+  "isRead": false,
+  "createdAt": {
+    "$date": "2026-10-05T12:04:04.923Z"
+  },
+  "__v": 0
+}]

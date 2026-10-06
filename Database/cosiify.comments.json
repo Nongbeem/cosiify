@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "6ac1e100d94dd8ec31384520"
+  },
+  "userId": {
+    "$oid": "6ac0adcb4cfd37d60b41dfc5"
+  },
+  "contentType": "webtoon",
+  "contentId": {
+    "$oid": "6ac0b30376ff2c81e709506f"
+  },
+  "text": "Wow",
+  "createdAt": {
+    "$date": "2026-10-04T05:15:44.475Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac1e1cfd94dd8ec31384521"
+  },
+  "userId": {
+    "$oid": "6ac0addf4cfd37d60b41dfc6"
+  },
+  "contentType": "webtoon",
+  "contentId": {
+    "$oid": "6ac0b30376ff2c81e709506f"
+  },
+  "text": "Hi",
+  "createdAt": {
+    "$date": "2026-10-04T05:19:11.476Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ac37187c81350bac5fef015"
+  },
+  "userId": {
+    "$oid": "6ac0adcb4cfd37d60b41dfc5"
+  },
+  "contentType": "episode",
+  "contentId": {
+    "$oid": "6ac0fb8580172245cf7cafb8"
+  },
+  "text": "Wow",
+  "createdAt": {
+    "$date": "2026-10-05T09:44:39.588Z"
+  },
+  "__v": 0
+}]

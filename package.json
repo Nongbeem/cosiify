@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "server": "cd server && node index.js",
+    "dev:app": "concurrently -k \"npm run server\" \"cd client && npm.cmd run android\"",
+    "dev:web": "concurrently -k \"npm run server\" \"cd AdminWeb && npm run dev\""
+  },
+  "dependencies": {
+    "@react-native-vector-icons/entypo": "^13.1.4",
+    "@react-native-vector-icons/fontawesome": "^13.1.4",
+    "@react-native-vector-icons/fontawesome6": "^13.1.4",
+    "@react-native-vector-icons/material-design-icons": "^13.1.4",
+    "@react-native-vector-icons/material-icons": "^13.1.4",
+    "@react-navigation/bottom-tabs": "^7.19.2",
+    "@react-navigation/native": "^7.4.1",
+    "@react-navigation/native-stack": "^7.20.0",
+    "@react-navigation/stack": "^7.11.2",
+    "lucide-react": "^1.48.0",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-safe-area-context": "^5.10.0",
+    "react-native-screens": "^4.28.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.6.1",
+    "concurrently": "^10.0.5",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^4.3.3"
+  }
+}
